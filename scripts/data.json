@@ -1,0 +1,27 @@
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+var json = {
+        "items": [
+                {
+                        "nombre": "Jose",
+                        "apellido": "Burgardt",
+                        "edad": "22 años",
+                        "email": "joseburg89@hotmail.com",
+                        "ciudad": "Loberia",
+                        "pais": "Argentina",
+                        "universidad": "UNICEN"
+                },
+                {
+                        "nombre": "Pedro",
+                        "apellido": "Perez",
+                        "edad": "24 años",
+                        "email": "pedroperez@hotmail.com",
+                        "ciudad": "Tandil",
+                        "pais": "Argentina",
+                        "universidad": "UNICEN"
+                }
+        ]
+};

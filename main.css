@@ -1,0 +1,29 @@
+/* 
+    Document   : main
+    Created on : 22/03/2012, 19:04:41
+    Author     : Jose
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+	text-align:center;
+}
+
+.contentMustache {
+	border: 2px solid #999;
+        font: 15px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+        color: blue;
+}
+
+.contentUnderscore {
+	border: 2px solid #999;
+        font: 15px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+        color: red;
+}
+
+.contentJsmart {
+	border: 2px solid #999;
+        font: 15px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+        color: green;
+}
